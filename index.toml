@@ -406,3 +406,7 @@ hash = "00fae50994eaff6f0f1fb95ce8703f5b4a5325118fb4d37f61f18282d220101c"
 [[files]]
 file = "resources/resourcepack/required/ryniworld title/pack.png"
 hash = "7814c5a6cfb409e2ae4545b4d7c30f0c8689ce582bfaf263b9773cc99846bbfc"
+
+[[files]]
+file = "unsup.toml"
+hash = "09b4cbdcb5098a09b1e6304da7d81d8ea49db14d40b42c8dd17e2ee66bdb170f"
