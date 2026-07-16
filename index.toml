@@ -164,6 +164,11 @@ hash = "af8b8c64714dc0ef3fd4ffb12462edabbe7a62295b9a574bb8968b4e62cec28a"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
 metafile = true
 
 [[files]]
