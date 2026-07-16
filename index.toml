@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "9fc161484aa9b93d8aeb7ee6d2850022adff3d05536a2aa06d96825e66612c90"
+
+[[files]]
 file = "config/emi.css"
 hash = "4e6475d7833f8919a0fc50c830aa58c98a890544f9ee55f1c767940e4b44b1b9"
 
@@ -332,6 +336,21 @@ metafile = true
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "ea9799e9f1642152ce03ee354cbe1cc007dba10e94ad5ff1312afb6b0d52ce0e"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "cbd24cdc5e83c7f687d56ed15b79f0e4ea890d9e825f747357e22831f67f4f0f"
 metafile = true
 
 [[files]]
