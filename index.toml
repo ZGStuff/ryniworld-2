@@ -75,6 +75,11 @@ hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "9a4698c7a6d450e860bea82463dbea10918e4990ea16a54a11921c6c9e9ad1d6"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -235,6 +245,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
+metafile = true
+
+[[files]]
 file = "mods/phonos.pw.toml"
 hash = "63768f968f8831cdba62de0d7dec561adcd21eb326fcd9cdb5f88a1b28a51d77"
 metafile = true
@@ -255,6 +270,11 @@ hash = "2f81382e6e4b41bf2c3cd4b4f2569871332f808780d4510dcee03afc361ec8a1"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
@@ -262,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
@@ -298,6 +323,30 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "resources/resourcepack/required/ryniworld title/Selected Packs.txt"
+hash = "fbc995d8fe2b96f1ea3b11ea18a8b1db0fac4f5faa11c7a669b6c20d1bf8268c"
+
+[[files]]
+file = "resources/resourcepack/required/ryniworld title/assets/minecraft/textures/gui/title/edition.png"
+hash = "33f38910c4f4923c9a30dffb276ada45b619579993afd6195d783fd5b0e60e4e"
+
+[[files]]
+file = "resources/resourcepack/required/ryniworld title/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "8986b39be15720527e97955963a52b2fc924066f32a629f0e3a4cdb98a641a75"
+
+[[files]]
+file = "resources/resourcepack/required/ryniworld title/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "bb7a7c5aa0e50ad1e78031190bcd38751ef298dacb114befa0727cf21b9ad79f"
+
+[[files]]
+file = "resources/resourcepack/required/ryniworld title/pack.mcmeta"
+hash = "00fae50994eaff6f0f1fb95ce8703f5b4a5325118fb4d37f61f18282d220101c"
+
+[[files]]
+file = "resources/resourcepack/required/ryniworld title/pack.png"
+hash = "7814c5a6cfb409e2ae4545b4d7c30f0c8689ce582bfaf263b9773cc99846bbfc"
 
 [[files]]
 file = "unsup.toml"

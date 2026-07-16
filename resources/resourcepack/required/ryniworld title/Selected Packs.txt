@@ -1,0 +1,8 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	NoJavaEditionTitle
+	ClassicMinecraftLogo
+
+Combined packs:
+	ClassicMinecraftLogo+NoJavaEditionTitle
