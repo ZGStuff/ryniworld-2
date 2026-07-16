@@ -1,0 +1,8 @@
+name = "Phonos"
+filename = "phonos-1.0.0-beta.40+fabric-1.21.1-build.5.jar"
+side = "both"
+
+[download]
+url = "https://git.sleeping.town/Erisatis_Alterna/Junk/raw/branch/trunk/phonos-1.0.0-beta.40+fabric-1.21.1-build.5.jar"
+hash-format = "sha256"
+hash = "9a0c4810d489cc57470b1c13790e7646721daa9a933ef91147f995d04bdd3879"

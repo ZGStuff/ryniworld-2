@@ -1,0 +1,13 @@
+name = "MEGA Ender Drives"
+filename = "megaenderdrives-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AWma6PJd/versions/oAnTs2IG/megaenderdrives-neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "885a097eb4092383fb22ee60d9fcaa1067078d848fc90e613c0699963370c58634d8e987973b04726ff5ec644709ddc7339eb4aa30795d12bd55d22be1af5a81"
+
+[update]
+[update.modrinth]
+mod-id = "AWma6PJd"
+version = "oAnTs2IG"

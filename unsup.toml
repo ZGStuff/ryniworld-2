@@ -1,0 +1,93 @@
+[flavor_groups.recipeviewer]
+name = "Recipe Viewer"
+description = "Shows all vanilla and modded recipes. An invaluable tool for any instance of Minecraft. If you had EMI + JEI installed in the past, PICK THAT ONE."
+side = "both"
+[[flavor_groups.recipeviewer.choices]]
+id = "emi_jei"
+name = "EMI + JEI"
+description = "EMI, with Just Enough Items as the backend for JEI plugin compatibility. More stable, but consumes more RAM and is slower to start."
+[[flavor_groups.recipeviewer.choices]]
+id = "jei_alone"
+name = "Just Enough Items"
+description = "Just Enough Items by itself. Has good plugin compat, but is older and doesn't have some QOL options that EMI does."
+[[flavor_groups.recipeviewer.choices]]
+id = "emi_tmrv"
+name = "EMI + TMRV"
+description = "EMI with TooManyRecipeViewers as the backend for JEI plugin compatibility. Slightly less stable than EMI + JEI, but consumes less RAM and is faster to start."
+
+[flavor_groups.worldmap]
+name = "World Map/Minimap"
+description = "Literally the title. See where you are, wherever."
+side = "client"
+[[flavor_groups.worldmap.choices]]
+id = "aa4"
+name = "Antique Atlas IV"
+description = "An immersive world map for the modern era. Has interoperability with Hoofprint."
+[[flavor_groups.worldmap.choices]]
+id = "hoofprint"
+name = "Hoofprint"
+description = "Simplistic, yet refined. Has interoperability with Antique Atlas IV."
+[[flavor_groups.worldmap.choices]]
+id = "journeymap"
+name = "JourneyMap"
+description = "Everything in one. A minimap and world map combination mod."
+
+[flavor_groups.iris]
+name = "Iris Shaders"
+description = "A shader mod built on Sodium's rendering engine. Compatible with OptiFine shader packs."
+side = "client"
+[[flavor_groups.iris.choices]]
+id = "iris_on"
+name = "Yes"
+description = "Install Iris Shaders. Mid-to-high-end GPU recommended."
+[[flavor_groups.iris.choices]]
+id = "iris_off"
+name = "No"
+description = "Don't install Iris Shaders."
+
+[flavor_groups.figura]
+name = "Figura"
+description = "Animation-capable player models that come directly from Blockbench, with near unlimited capabilities for customization."
+side = "client"
+[[flavor_groups.figura.choices]]
+id = "figura_on"
+name = "Yes"
+description = "Installs Figura. Can be helpful if someone's skin looks incomplete."
+[[flavor_groups.figura.choices]]
+id = "figura_off"
+name = "No"
+description = "Do not install Figura."
+
+[flavor_groups.waila_jade]
+name = "Jade"
+description = "Displays what you're looking at. Handy for seeing item info."
+side = "both"
+[[flavor_groups.waila_jade.choices]]
+id = "waila_jade_on"
+name = "Yes"
+description = "Installs Jade."
+[[flavor_groups.waila_jade.choices]]
+id = "waila_jade_off"
+name = "No"
+description = "Don't install Jade."
+
+[metafile.iris]
+flavors = ["iris_on", "iris_off"]
+[metafile.figura]
+flavors = ["figura_on", "figura_off"]
+[metafile.jade]
+flavors = ["waila_jade_on", "waila_jade_off"]
+[metafile.emi]
+flavors = ["emi_jei", "emi_tmrv"]
+[metafile.jei]
+flavors = ["jei_alone", "emi_jei"]
+[metafile.tmrv]
+flavors = ["emi_tmrv"]
+
+[metafile.antique-atlas-4]
+flavors = ["aa4"]
+[metafile.hoofprint]
+flavors = ["hoofprint"]
+
+[metafile.journeymap]
+flavors = ["journeymap"]

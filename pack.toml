@@ -1,0 +1,14 @@
+name = "Ryniworld The Sequel!"
+author = "Erisatis Alterna, rynizx"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "38372f37a155b35a8d78e43e6663c3748fba76c733c832944fa1315b7c2079dd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.238"
+unsup = "1.2.7"

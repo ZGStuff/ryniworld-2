@@ -1,0 +1,13 @@
+name = "Forgified Fabric API"
+filename = "forgified-fabric-api-0.116.13+2.2.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/YsECO6Ri/forgified-fabric-api-0.116.13%2B2.2.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "15693d4e423cf97fd00d779bd5f0de04cf72b7c6e56d944758500cacef8237d5980ecb02a9fb75942fe6dcacbbf5d9b82389696859005a276d235c208e080d9b"
+
+[update]
+[update.modrinth]
+mod-id = "Aqlf1Shp"
+version = "YsECO6Ri"
