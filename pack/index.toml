@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "6f53a569e3fc6b0b6b38f2372bbab822d54b366f6e462d2e8d1893e73b8914ca"
-
-[[files]]
 file = "config/emi.css"
 hash = "4e6475d7833f8919a0fc50c830aa58c98a890544f9ee55f1c767940e4b44b1b9"
 
