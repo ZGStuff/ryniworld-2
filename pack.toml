@@ -1,12 +1,12 @@
 name = "Ryniworld The Sequel!"
 author = "Erisatis Alterna, rynizx"
-version = "0.0.0"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9328fec81ae127103d2b6d9ab6c3d1bcc4731e49f74dd27f907d07dc21013e5"
+hash = "3cf0267f5ef0363596c20b5abdc8d68db96ab4fb687b3104086ce9108271bb8e"
 
 [versions]
 minecraft = "1.21.1"

@@ -20,6 +20,11 @@ hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
 metafile = true
 
 [[files]]
+file = "mods/atmospheric.pw.toml"
+hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "dc4fba2ed89550843d0ce2a6cd1b13986ff2bf596b9f5b828ef55ebb538bab10"
 metafile = true
@@ -27,6 +32,16 @@ metafile = true
 [[files]]
 file = "mods/baguettelib.pw.toml"
 hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "17a19b546170937c6c676c026b1cd80909ac7ac4fe70b1830ce37b9c72585085"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
 metafile = true
 
 [[files]]
@@ -245,6 +260,21 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/no-mans-delight.pw.toml"
+hash = "ab2cff38a5f58e46582ee8c87cc1aa8ea2248b8e174d3a3ffd3f8bd5530dac2f"
+metafile = true
+
+[[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "55b4c00d59cfe0e2677157d41fb900e0e45fa8facb2aa7782af7070c3ecfd1aa"
+metafile = true
+
+[[files]]
+file = "mods/oreganized.pw.toml"
+hash = "18f2e846ed69232e9b86ee3c495f590afeb7bc79c58d83209ac36e7a628d1f2c"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
@@ -350,4 +380,4 @@ hash = "7814c5a6cfb409e2ae4545b4d7c30f0c8689ce582bfaf263b9773cc99846bbfc"
 
 [[files]]
 file = "unsup.toml"
-hash = "30700c3d947a37fced8de9f4f3cbaa8762da1cd51d8ca8f0fbe520f376a99b90"
+hash = "6ac2e19e455dd446c7150fad4c88444fffc5e8de20e4abe4113958e424e311c9"

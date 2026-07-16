@@ -1,11 +1,11 @@
 [flavor_groups.recipeviewer]
 name = "Recipe Viewer"
-description = "Shows all vanilla and modded recipes. An invaluable tool for any instance of Minecraft. If you had EMI + JEI installed in the past, PICK THAT ONE."
+description = "Shows all vanilla and modded recipes. An invaluable tool for any instance of Minecraft."
 side = "both"
 [[flavor_groups.recipeviewer.choices]]
 id = "emi_jei"
 name = "EMI + JEI"
-description = "EMI, with Just Enough Items as the backend for JEI plugin compatibility. More stable, but consumes more RAM and is slower to start."
+description = "EMI, with Just Enough Items as the backend for JEI plugin compatibility. More stable, but consumes more RAM and is slower to start. The recommended option."
 [[flavor_groups.recipeviewer.choices]]
 id = "jei_alone"
 name = "Just Enough Items"
@@ -13,7 +13,7 @@ description = "Just Enough Items by itself. Has good plugin compat, but is older
 [[flavor_groups.recipeviewer.choices]]
 id = "emi_tmrv"
 name = "EMI + TMRV"
-description = "EMI with TooManyRecipeViewers as the backend for JEI plugin compatibility. Slightly less stable than EMI + JEI, but consumes less RAM and is faster to start."
+description = "EMI with TooManyRecipeViewers as the backend for JEI plugin compatibility. Slightly less stable than EMI + JEI, but consumes less RAM and is faster to start. The slightly-less-recommended option."
 
 [flavor_groups.worldmap]
 name = "World Map/Minimap"
