@@ -14,7 +14,6 @@ description = "Just Enough Items by itself. Has good plugin compat, but is older
 id = "emi_tmrv"
 name = "EMI + TMRV"
 description = "EMI with TooManyRecipeViewers as the backend for JEI plugin compatibility. Slightly less stable than EMI + JEI, but consumes less RAM and is faster to start. The slightly-less-recommended option."
-
 [flavor_groups.worldmap]
 name = "World Map/Minimap"
 description = "Literally the title. See where you are, wherever."
@@ -31,7 +30,6 @@ description = "Simplistic, yet refined. Has interoperability with Antique Atlas 
 id = "journeymap"
 name = "JourneyMap"
 description = "Everything in one. A minimap and world map combination mod."
-
 [flavor_groups.iris]
 name = "Iris Shaders"
 description = "A shader mod built on Sodium's rendering engine. Compatible with OptiFine shader packs."
@@ -44,7 +42,6 @@ description = "Install Iris Shaders. Mid-to-high-end GPU recommended."
 id = "iris_off"
 name = "No"
 description = "Don't install Iris Shaders."
-
 [flavor_groups.figura]
 name = "Figura"
 description = "Animation-capable player models that come directly from Blockbench, with near unlimited capabilities for customization."
@@ -57,7 +54,6 @@ description = "Installs Figura. Can be helpful if someone's skin looks incomplet
 id = "figura_off"
 name = "No"
 description = "Do not install Figura."
-
 [flavor_groups.waila_jade]
 name = "Jade"
 description = "Displays what you're looking at. Handy for seeing item info."
@@ -70,7 +66,6 @@ description = "Installs Jade."
 id = "waila_jade_off"
 name = "No"
 description = "Don't install Jade."
-
 [metafile.iris]
 flavors = ["iris_on", "iris_off"]
 [metafile.figura]
@@ -83,11 +78,9 @@ flavors = ["emi_jei", "emi_tmrv"]
 flavors = ["jei_alone", "emi_jei"]
 [metafile.tmrv]
 flavors = ["emi_tmrv"]
-
 [metafile.antique-atlas-4]
 flavors = ["aa4"]
 [metafile.hoofprint]
 flavors = ["hoofprint"]
-
 [metafile.journeymap]
 flavors = ["journeymap"]
