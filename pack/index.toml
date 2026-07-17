@@ -185,6 +185,11 @@ hash = "af8b8c64714dc0ef3fd4ffb12462edabbe7a62295b9a574bb8968b4e62cec28a"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -302,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+hash = "9b56c2c17c00dd51fffcbc5e5a59d2c325ed656e768365ae1a36f7692ffcd01e"
 metafile = true
 
 [[files]]
