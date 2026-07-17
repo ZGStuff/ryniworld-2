@@ -15,6 +15,11 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "19d6b20763edf0247e395db37d6e7e5b012ca063f5820c81a6330baff2218c4e"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
 metafile = true
@@ -260,6 +265,11 @@ hash = "9094c740df9ffa84b4972a2c09834c8b824471a390a629caead77b94ae4f2604"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
@@ -402,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "c528ce61fc0e0036a7b6055ad71b1a5bf1cb388537397b6852464b9855d69345"
 metafile = true
 
 [[files]]
