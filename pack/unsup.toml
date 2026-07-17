@@ -68,6 +68,8 @@ name = "No"
 description = "Don't install Jade."
 [metafile.iris]
 flavors = ["iris_on", "iris_off"]
+[metafile.colorwheel]
+flavors = ["iris_on", "iris_off"]
 [metafile.figura]
 flavors = ["figura_on", "figura_off"]
 [metafile.jade]
