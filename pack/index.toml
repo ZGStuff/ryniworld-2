@@ -175,11 +175,6 @@ hash = "af8b8c64714dc0ef3fd4ffb12462edabbe7a62295b9a574bb8968b4e62cec28a"
 metafile = true
 
 [[files]]
-file = "mods/drogstyle.pw.toml"
-hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -250,6 +245,11 @@ hash = "db4c055299a474362c9e6359c7567e4b53a3288060560c20730949da667092bc"
 metafile = true
 
 [[files]]
+file = "mods/lampblack.pw.toml"
+hash = "9094c740df9ffa84b4972a2c09834c8b824471a390a629caead77b94ae4f2604"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
@@ -307,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/phonos.pw.toml"
 hash = "63768f968f8831cdba62de0d7dec561adcd21eb326fcd9cdb5f88a1b28a51d77"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
