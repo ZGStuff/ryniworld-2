@@ -5,6 +5,14 @@ file = "config/emi.css"
 hash = "4e6475d7833f8919a0fc50c830aa58c98a890544f9ee55f1c767940e4b44b1b9"
 
 [[files]]
+file = "config/everycomp-entries.toml"
+hash = "fc1f3f697d813dbe0ffbbf476422dad77e6860bef2c66248e2eae7d8bd41a0ae"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "13f691be0996e051b55ede6a046c36c1d444d3e0a482cda1a7e6f73ba822e5dc"
+
+[[files]]
 file = "mods/ae2-omni-cells.pw.toml"
 hash = "90293ff38fc199a837b0b9d1b1f5eed7473c8017911ae62a49379416c3de5d35"
 metafile = true
@@ -32,6 +40,11 @@ metafile = true
 [[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "af6c0039538f5f5387184e6d055d5b5afe5f58de42ab451271d69e810d09eefb"
+metafile = true
+
+[[files]]
+file = "mods/auroraslanterns.pw.toml"
+hash = "3c22eaa2470d77f1ec55acdfba17a07aef9d6b3c5add762cb281613af4b589cc"
 metafile = true
 
 [[files]]
@@ -67,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
+metafile = true
+
+[[files]]
+file = "mods/cantilever.pw.toml"
+hash = "0701d401d5a64ba43dc40b59a3b5af2ad0fc8a93a297cee1da08b23b62a86a93"
 metafile = true
 
 [[files]]
@@ -190,11 +208,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/discord-integration-(di).pw.toml"
-hash = "af8b8c64714dc0ef3fd4ffb12462edabbe7a62295b9a574bb8968b4e62cec28a"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
@@ -207,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/enderdrives.pw.toml"
 hash = "b87fc85aeba034f880cd7f175a1e31b06b7e740e1f981fd1c89068298191fb61"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "d7995c6f45528e8769205ce7cd66156fab94e3f41d0a3aa699cdacbba94c3c93"
 metafile = true
 
 [[files]]
@@ -315,6 +333,11 @@ hash = "d72083c1a59af176a97bea991a7f5d04ec2ffe1b63794c1290b29ec3ec3cfe8a"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -357,6 +380,16 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "dc9fec9f7c8410ed73c1d9dec65df90b83af5a62a86e6a33b55dec5641f49f17"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "c92edc349660c91cadfa880e2ba26382123467f96a094849220f6fcce977d858"
 metafile = true
 
 [[files]]
@@ -447,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
