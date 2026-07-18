@@ -50,6 +50,16 @@ hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft-legacy.pw.toml"
+hash = "c9189a87ad80f0cfc2e5d0169b0723c4b25bbbd5dae7c84e472cfc2367c2f2a2"
+metafile = true
+
+[[files]]
+file = "mods/bibliowoods-legacy.pw.toml"
+hash = "85a339ba6cfa5997dc940ed472da4e4c50e11d04113d03ee8247537cb305da8b"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "17a19b546170937c6c676c026b1cd80909ac7ac4fe70b1830ce37b9c72585085"
 metafile = true
