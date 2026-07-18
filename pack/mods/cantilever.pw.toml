@@ -1,6 +1,6 @@
 name = "Cantilever"
 filename = "cantilever-2.0-dev+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://github.com/sleepingdragoninn/cantilever/releases/download/2.0-tailor/cantilever-2.0-dev+1.21.1.jar"

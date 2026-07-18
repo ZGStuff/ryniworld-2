@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cantilever.pw.toml"
-hash = "3e0d523480af29565b2999dd0d1d4586919e5c97aeed1414323ba33b6e01a27b"
+hash = "0701d401d5a64ba43dc40b59a3b5af2ad0fc8a93a297cee1da08b23b62a86a93"
 metafile = true
 
 [[files]]
