@@ -5,6 +5,10 @@ file = "config/emi.css"
 hash = "4e6475d7833f8919a0fc50c830aa58c98a890544f9ee55f1c767940e4b44b1b9"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "27cd5aad16dd8a62d55a19342cb0dafa4e1222822531e3217c8c98a0c7ad88c4"
+
+[[files]]
 file = "mods/ae2-omni-cells.pw.toml"
 hash = "90293ff38fc199a837b0b9d1b1f5eed7473c8017911ae62a49379416c3de5d35"
 metafile = true
