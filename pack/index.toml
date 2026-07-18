@@ -215,6 +215,11 @@ hash = "b87fc85aeba034f880cd7f175a1e31b06b7e740e1f981fd1c89068298191fb61"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "d7995c6f45528e8769205ce7cd66156fab94e3f41d0a3aa699cdacbba94c3c93"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
@@ -317,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d72083c1a59af176a97bea991a7f5d04ec2ffe1b63794c1290b29ec3ec3cfe8a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
 metafile = true
 
 [[files]]
