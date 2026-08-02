@@ -143,6 +143,11 @@ hash = "9a4698c7a6d450e860bea82463dbea10918e4990ea16a54a11921c6c9e9ad1d6"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "de3d0b757448bb1f92ed2f945f91d24550385e1160b909ed69f6ed5948d11c97"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
@@ -330,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/megaenderdrives.pw.toml"
 hash = "0eb3a49a36422a0bed65421e3ba33454ecd6ad796fd065b1a09f44a224120143"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
